@@ -2,12 +2,12 @@
 
 Candidate exoplanets classification
 
-## Results
+### Results
 
 Random Forest is better than SVM, even without GridSearchCV.
 ***
 
-## **SVM**
+### **SVM**
 
 |                | Before GridSearchCV   | After GridSearchCV  |
 | -------------- |:---------------------:| :------------------:|
@@ -16,7 +16,7 @@ Random Forest is better than SVM, even without GridSearchCV.
 
 ---
 
-## **Random Forest**
+### **Random Forest**
 
 |                |  Before GridSearchCV  | After GridSearchCV  |
 | -------------- |:---------------------:| :------------------:|
