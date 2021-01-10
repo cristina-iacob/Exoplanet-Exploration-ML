@@ -1,6 +1,6 @@
 ## ML - Exoplanet Exploration
 
-Candidate exoplanets classification
+Classification of exoplanets candidates
 
 ### Results
 
